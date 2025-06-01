@@ -1,4 +1,4 @@
-# Kapil-Tiwari-
+# Kapil Tiwari
 # 💫 About Me:
 💻 Frontend Developer with strong skills in React.js, Tailwind CSS, JavaScript, and modern UI design principles.<br><br>🚀 Passionate about building fast, responsive, and user-friendly web apps that solve real-world problems.<br><br>🌐 Experience working on AI-integrated web projects like smart farming tools, mock interview apps, and investment platforms.<br><br>🔄 Proficient in React Hooks, Redux Toolkit, React Router DOM, and integrating real-time APIs and Firebase for full-stack solutions.<br><br>🎯 Excited about progressive web apps (PWAs), Framer Motion animations, and creating seamless user experiences.<br><br>📚 Always learning and exploring new tools in web development—eager to collaborate on innovative, impactful projects.
 
